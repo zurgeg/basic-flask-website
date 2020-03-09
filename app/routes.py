@@ -18,5 +18,5 @@ def home():
 # On Mac (in Terminal):
 # Create directory server
 # git clone https://github.com/zurgeg/basic-flask-website.git
-# git checkout master
+# git checkout tags/0.1
 # ./run.sh
