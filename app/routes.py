@@ -10,7 +10,7 @@ def home():
   
 # Now let's start our server by runnning these commands:
 # On Windows and Mac:
-# Download the .zip of this repo
+# Download the .zip of this repo. Be sure to select the drop down that says Branch: Master and select tags then 0.1
 # Unzip it
 # Open Command Prompt/Terminal
 # Go into the folder using cd
